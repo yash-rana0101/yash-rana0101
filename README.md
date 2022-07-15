@@ -42,9 +42,9 @@
 <details>
 <summary>Click Here</summary>
 
-Wizard-ser[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=Wizard-ser&theme=buefy)](https://github.com/yashcybrot/Wizard-ser)
+Wizard-ser[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-hacktivist01&repo=RiderBotMD&theme=buefy)](https://github.com/yashcybrot/RiderBotMD)
 
-Dogebot3[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=DogeBot3&theme=buefy)](https://github.com/yashcybrot/DogeBot3)
+Dogebot3[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-hacktivist01&repo=HACKTIBOTMD&theme=buefy)](https://github.com/yashcybrot/HACKTIBOTMD)
 
-kaoi[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=kaoi&theme=buefy)](https://github.com/yashcybrot/kaoi)
+kaoi[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-hacktivist01&repo=Hacktbotmd2&theme=buefy)](https://github.com/yashcybrot/Hacktbotmd2)
 
