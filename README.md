@@ -1,9 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐇𝐀𝐂𝐊𝐓𝐈𝐕𝐈𝐒𝐓+𝐏𝐑𝐎𝐅𝐈𝐋𝐄.;𝐇𝐄𝐑𝐄+𝐘𝐎𝐔+𝐂𝐀𝐍+𝐅𝐈𝐍𝐃+𝐖𝐇𝐀𝐒𝐓𝐀𝐏𝐏+𝐁𝐎𝐓+𝐒𝐂𝐑𝐈𝐏𝐓;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐎𝐔𝐑+𝐑𝐎𝐅𝐈𝐋𝐄 )](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐘𝐀𝐒𝐇+𝐏𝐑𝐎𝐅𝐈𝐋𝐄.;𝐇𝐄𝐑𝐄+𝐘𝐎𝐔+𝐂𝐀𝐍+𝐅𝐈𝐍𝐃+𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐎𝐔𝐑+𝐑𝐎𝐅𝐈𝐋𝐄 )](https://git.io/typing-svg)
 
-# 𒆜ᴍʀ.ʜᴀᴄᴋᴛɪᴠɪsᴛ𒆜
+# 𒆜𝐘𝐀𝐒𝐇 𝐑𝐀𝐍𝐀𒆜
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/Mc77hKr/IMG-20220228-WA0024.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://ibb.co/WWhRGg0" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/mr._hacktivist"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -13,8 +13,8 @@
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=꧁𒆜ᴍʀ.ʜᴀᴄᴋᴛɪᴠɪsᴛ𒆜꧂;IS+ALWAYS+HERE+FOR+YOUR+HELP."
+  <img
+ src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𒆜𝐘𝐀𝐒𝐇+𝐑𝐀𝐍𝐀𒆜;IS+ALWAYS+HERE+FOR+YOUR+HELP."
             alt="Typing SVG"
         />
     </a>
