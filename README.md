@@ -3,7 +3,7 @@
 # 𒆜𝐘𝐀𝐒𝐇 𝐑𝐀𝐍𝐀𒆜
 
 <div align="center">
-  <img border-radius: 15px src="https://ibb.co/WWhRGg0" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/79310401?v=4" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/mr._hacktivist"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
