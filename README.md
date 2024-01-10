@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-hacktivist01&show_icons=true&theme=dark&locale=en"alt="yashcybrot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-rana0101&show_icons=true&theme=dark&locale=en"alt="yashcybrot" /></p>
     
   <div align="center">
        
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mr-hacktivist01&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-rana0101&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
 
