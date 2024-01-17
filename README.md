@@ -38,13 +38,3 @@
 <a href="https://youtube.com/channel/UCB1xRDTNMjT7XesNaELK20w"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
-## 🚀The REPOSITORIES that I recomended🚀
-<details>
-<summary>Click Here</summary>
-
-Wizard-ser[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-hacktivist01&repo=RiderBotMD&theme=buefy)](https://github.com/yashcybrot/RiderBotMD)
-
-Dogebot3[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-hacktivist01&repo=HACKTIBOTMD&theme=buefy)](https://github.com/yashcybrot/HACKTIBOTMD)
-
-kaoi[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-hacktivist01&repo=Hacktbotmd2&theme=buefy)](https://github.com/yashcybrot/Hacktbotmd2)
-
