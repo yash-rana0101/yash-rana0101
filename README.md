@@ -1,5 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐘𝐀𝐒𝐇+𝐏𝐑𝐎𝐅𝐈𝐋𝐄.;𝐇𝐄𝐑𝐄+𝐘𝐎𝐔+𝐂𝐀𝐍+𝐅𝐈𝐍𝐃+𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐎𝐔𝐑+𝐑𝐎𝐅𝐈𝐋𝐄 )](https://git.io/typing-svg)
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/Imi0xFyoBmIBUSc7C947TL)
+
 # 𒆜𝐘𝐀𝐒𝐇 𝐑𝐀𝐍𝐀𒆜
 
 <div align="center">
@@ -29,7 +31,7 @@
   </div>
  
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/Imi0xFyoBmIBUSc7C947TL)
+  
 
 ## ```ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ```
 <p align="center">
