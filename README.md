@@ -5,8 +5,6 @@
 # 𒆜𝐘𝐀𝐒𝐇 𝐑𝐀𝐍𝐀𒆜
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/79310401?v=4" width="200" height="200"/>
-
 <p align="center">
   <a href="https://instagram.com/mr._hacktivist"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/12062785249"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -21,6 +19,10 @@
         />
     </a>
 </p>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/yash-rana0101/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-rana0101&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-rana0101&show_icons=true&theme=dark&locale=en"alt="yashcybrot" /></p>
