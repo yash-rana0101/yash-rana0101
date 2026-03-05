@@ -1,44 +1,145 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐘𝐀𝐒𝐇+𝐏𝐑𝐎𝐅𝐈𝐋𝐄.;𝐇𝐄𝐑𝐄+𝐘𝐎𝐔+𝐂𝐀𝐍+𝐅𝐈𝐍𝐃+𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐌𝐘+𝐑𝐎𝐅𝐈𝐋𝐄 )](https://git.io/typing-svg)
+<div align="center">
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/Imi0xFyoBmIBUSc7C947TL)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=180&section=header&text=Yash%20Rana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 𒆜𝐘𝐀𝐒𝐇 𝐑𝐀𝐍𝐀𒆜
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Powered+Developer;Backend+Engineer;Blockchain+Developer;Building+Scalable+Systems;Rust+%7C+Node.js+%7C+Web3\&center=true\&width=500\&height=50\&color=00C6FF)]()
+
+</div>
+
+---
+
+# 🚀 About Me
+
+💻 Backend-focused developer building **scalable systems, Web3 platforms, and AI-assisted products**.
+
+* 🎓 **BCA Graduate – Quantum University**
+* ⚡ Ex **Full Stack Developer Intern @ ChainShift**
+* 🧠 Building **[Trivx AI](https://trivx.in)**
+* 🌐 Interested in **Backend Engineering, Web3, and AI Systems**
+* 📍 Planning to work with **Bangalore startups**
+
+---
+
+# 🧠 Tech Stack
+
+### ⚡ Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-0f2027?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0f2027?style=for-the-badge\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0f2027?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Auth_Systems-0f2027?style=for-the-badge)
+
+---
+
+### 🗄 Databases
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-1a2a6c?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a2a6c?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1a2a6c?style=for-the-badge\&logo=redis\&logoColor=white)
+
+---
+
+### ⛓ Blockchain
+
+![Web3](https://img.shields.io/badge/Web3-16222a?style=for-the-badge)
+![ICP](https://img.shields.io/badge/Internet_Computer-16222a?style=for-the-badge)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-16222a?style=for-the-badge)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge\&logo=tailwind-css)
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 Trivx AI
+
+AI-powered system designed to build and automate complex digital workflows.
+
+### 🔐 ICP Token Wallet
+
+Secure token wallet using **Rust smart contracts on Internet Computer Protocol**.
+
+### 🧑‍💻 Cyberhunter Platform
+
+Team & project management system for cybersecurity communities.
+
+### 🧾 Hackathon Management System
+
+Platform for organizers to post challenges and participants to submit solutions.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yash-rana0101&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-rana0101&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yash-rana0101&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/yash-rana0101/yash-rana0101/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://instagram.com/mr._hacktivist"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/12062785249"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<a href="https://linkedin.com/in/devop-yash-rana">
+<img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ranayash812@gmail.com">
+<img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://yashranaportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
-## <!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-  <img
- src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𒆜𝐘𝐀𝐒𝐇+𝐑𝐀𝐍𝐀𒆜;IS+ALWAYS+HERE+FOR+YOU."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+---
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/yash-rana0101/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-rana0101&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<div align="center">
 
-<p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-rana0101&show_icons=true&theme=dark&locale=en"alt="yashcybrot" /></p>
-    
-  <div align="center">
-       
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-rana0101&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-  </div>
- 
+⭐ *“Building modern backend systems with AI assistance.”*
 
-  
+</div>
 
-## ```ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ```
-<p align="center">
-<a href="https://wa.me/12266460654"><img src="https://img.shields.io/badge/Contact Hacktivist-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Imi0xFyoBmIBUSc7C947TL"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCB1xRDTNMjT7XesNaELK20w"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
