@@ -117,7 +117,7 @@
 ![AI](https://img.shields.io/badge/Status-Live-00c6ff?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-AI%20Platform-203a43?style=flat-square)
 
-> AI-powered system designed to build and automate complex digital workflows.
+> **Trivx AI** is an intelligent, event-driven platform that autonomously executes the full DevOps lifecycle — from analyzing your repository to provisioning infrastructure and deploying your app live — all through a single chat command.
 
 [![Visit](https://img.shields.io/badge/→%20Visit%20Trivx.in-0f2027?style=for-the-badge&logo=vercel&logoColor=00c6ff)](https://trivx.in)
 
