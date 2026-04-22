@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=180&section=header&text=Yash%20Rana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Powered+Developer;Backend+Engineer;Blockchain+Developer;Building+Scalable+Systems;Rust+%7C+Node.js+%7C+Web3&center=true&width=500&height=50&color=00C6FF)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Powered+Developer;Backend+Engineer;Building+Scalable+Systems;Rust+%7C+Node.js+%7C+Web3&center=true&width=500&height=50&color=00C6FF)]()
 
 </div>
 
@@ -14,17 +14,7 @@
 
 <table>
 <tr>
-<td width="50%">
 
-```yaml
-Name    : Yash Rana
-Role    : Backend Engineer
-Focus   : Scalable Systems
-         Web3 Platforms
-         AI-Assisted Products
-```
-
-</td>
 <td width="50%">
 
 | | |
@@ -75,6 +65,22 @@ Focus   : Scalable Systems
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a2a6c?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
 ![Redis](https://img.shields.io/badge/Redis-1a2a6c?style=for-the-badge&logo=redis&logoColor=FF4438)
 
+</details>
+
+<details open>
+<summary><b>🚀 DevOps</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0f2027?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f2027?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0f2027?style=for-the-badge&logo=circleci&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0f2027?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Terraform](https://img.shields.io/badge/Terraform-0f2027?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Prometheus](https://img.shields.io/badge/Prometheus-0f2027?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0f2027?style=for-the-badge&logo=grafana&logoColor=F46800)
 </details>
 
 <details open>
